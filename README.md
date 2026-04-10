@@ -34,12 +34,16 @@ The PXG5 engine initiates a **Sequencing Phase** where source material is geomet
 
 ---
 
+
 ## 04 // Realignment Protocol
+
 Due to the sovereign nature of the PXG5 infrastructure, implementation fees are accepted via **BTC (Bitcoin)** to ensure immediate finality and deployment priority. 
 
-All private briefings regarding the implementation of Sabitu's Law require a non-refundable **Realignment Fee**.
+All private briefings regarding the implementation of **Sabitu's Law** and **APEX-Layer infrastructure** require a non-refundable **Realignment Fee**.
 
-**[Download the Official Whitepaper (PDF)](./The_Sabitu_Protocol___Sovereign_Engineering.pdf)**
+[**Download the Official Whitepaper (PDF)**](./The_Sabitu_Protocol___Sovereign_Engineering.pdf)
+
+> **Inquire for Realignment:** [support@limitpixel.com](mailto:support@limitpixel.com?subject=Realignment%20Inquiry%20-%20Sabitu%20Protocol)
 
 ---
 
