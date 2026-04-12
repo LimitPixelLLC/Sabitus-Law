@@ -8,7 +8,6 @@
 ## 01 // The Paradigm Shift
 Global digital infrastructure is currently drowning under the weight of the **Old Testament** of information theory: Shannon’s Law. This legacy framework treats data as static "matter"—dead rocks that must be moved and stored at a 1:1 ratio of physical burden. 
 
-**The result is a $7 Trillion datacenter crisis.**
 
 The Sabitu Protocol introduces **Sabitu’s Law**. We no longer compress matter; we sequence biology.
 
@@ -35,19 +34,7 @@ The PXG5 engine initiates a **Sequencing Phase** where source material is geomet
 ---
 
 
-## 04 // Realignment Protocol
-
-Due to the sovereign nature of the PXG5 infrastructure, implementation fees are accepted via **BTC (Bitcoin)** to ensure immediate finality and deployment priority. 
-
-All private briefings regarding the implementation of **Sabitu's Law** and **APEX-Layer infrastructure** require a non-refundable **Realignment Fee**.
-
-[**Download the Official Whitepaper (PDF)**](./The_Sabitu_Protocol___Sovereign_Engineering.pdf)
-
-> **Inquire for Realignment:** [support@limitpixel.com](mailto:support@limitpixel.com?subject=Realignment%20Inquiry%20-%20Sabitu%20Protocol)
-
----
-
 **AUTHOR:** Adetokunbo Sabitu, Chief Architect  
 **DATE:** April 10, 2026  
-**LOCATION:** Houston, TX  
+**LOCATION:** Undisclosed 
 **LimitPixel LLC**
