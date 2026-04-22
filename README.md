@@ -25,7 +25,7 @@ This repository serves as the **Authoritative Source Authority** for the deploym
 ---
 
 ## 04 // Deployment & Sovereignty
-The PXG6 engine initiates a **Sequencing Phase** where source material is mapped into a high-resolution expansion. This process provides a bit-perfect reconstruction path with near-zero energy overhead.
+The PXG6 engine initiates a **Sequencing Phase** where source material is mapped into a high-resolution expansion. By utilizing the **Temporal Heartbeat** of high-frequency hardware, the protocol achieves bit-perfect reconstruction while maintaining the integrity of the DNA Seed.
 
 * **Status:** Proprietary Protocol 
 * **Source Code:** Encrypted / Non-Distributable 
