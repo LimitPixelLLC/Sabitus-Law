@@ -17,16 +17,6 @@ Sabitu’s Law establishes that the "Entropy" of a file is merely the noise of i
 
 In the **PXG6** framework, we do not perform "compression." We perform **Information Sequencing**. By transitioning source material into the **Phenotype State**, the engine isolates the genomic signature. The resulting **DNA Seed** scales with the biological density of the source, maintaining a bit-perfect reconstruction path while achieving a consistent **97-99% Reduction** in physical weight.
 
-| Source Material (Legacy) | Phenotype Expansion (State) | PXG6 DNA Seed | Shrinkage % |
-| :--- | :--- | :--- | :--- |
-| **50.40 MB** | $1.21 \times 10^8$ Resolution | **1.21 MB** | 97.6% |
-| **1.02 GB** | $2.45 \times 10^9$ Resolution | **20.40 MB** | 98.0% |
-| **8.75 GB** | $2.10 \times 10^{10}$ Resolution | **131.25 MB** | 98.5% |
-| **104.20 GB** | $2.50 \times 10^{11}$ Resolution | **1.14 GB** | 98.9% |
-| **1.22 TB** | $2.90 \times 10^{12}$ Resolution | **12.20 GB** | **99.0%** |
-
----
-
 ## 03 // Overview
 Sabitu’s Law represents a paradigm shift from volume-based storage to logic-based reconstruction. While legacy systems (Shannon Entropy) treat data as static bits, Sabitu’s Law treats data as a biological instruction set. 
 
